@@ -1,0 +1,22 @@
+[
+  {
+    "id" : 1,
+    "icon": "🏖️",
+    "tourType": "Beach Hopping Tour"
+  },
+  {
+    "id" : 2,
+    "icon": "⛰️",
+    "tourType": "Hill Tracts Adventure"
+  },
+  {
+    "id" : 3,
+    "icon": "🕌",
+    "tourType": "Historic Mosque Trail"
+  },
+  {
+    "id" : 4,
+    "icon": "🍵",
+    "tourType": "Tea Garden Exploration"
+  }
+]
